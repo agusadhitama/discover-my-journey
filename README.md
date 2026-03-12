@@ -20,7 +20,7 @@ Animasi **typing tagline** yang menginspirasi:
 - **From Papua, With Pride** 🌟  
 - **Papua Runs in My Veins** 🔥  
 
-Tombol **Discover My Journey →** 🡒 mengajak pengunjung menelusuri perjalanan hidup saya secara **smooth scroll**.
+Tombol **Discover My Journey 🡒 mengajak pengunjung menelusuri perjalanan hidup saya secara **smooth scroll**.
 
 ---
 
