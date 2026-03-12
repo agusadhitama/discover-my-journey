@@ -36,8 +36,8 @@ Tombol **Discover My Journey 🡒 mengajak pengunjung menelusuri perjalanan hidu
 ## 💌 Contact
 
 Interaktif & mudah diakses:  
-- **Email:** [agusadhitama95@gmail.com](mailto:agusadhitama95@gmail.com) ✉️  
-- **Instagram:** [@agusadhitamaa](https://instagram.com/agusadhitamaa) 📸  
+- **Email :** [agusadhitama95@gmail.com](mailto:agusadhitama95@gmail.com) ✉️  
+- **Instagram :** [@agusadhitamaa](https://instagram.com/agusadhitamaa) 📸  
 
 ---
 
