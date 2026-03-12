@@ -1,4 +1,4 @@
-# Agus Satria Adhitama – ✨ Discover My Journey ✨
+# Agus Satria Adhitama ✨ Discover My Journey ✨
 
 Selamat datang di **Discover My Journey** 🚀, pengalaman interaktif untuk mengenal siapa saya, perjalanan hidup, dan cerita di balik setiap langkah. 🌟  
 Dari **Timika, Papua** 🌴 hingga berbagai tantangan dan pengalaman, setiap bagian dari cerita ini membawa **bangga Papua** ke dunia.
