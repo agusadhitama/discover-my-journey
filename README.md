@@ -38,4 +38,4 @@ Interaktif & mudah diakses:
 
 1. Clone this repository:  
 ```bash
-git clone https://github.com/<username>/agus-satria-adhitama.git
+[git clone https://github.com/<username>/agus-satria-adhitama.git](https://agusadhitama.github.io/discover-my-journey/)
