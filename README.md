@@ -1,39 +1,36 @@
-# Agus Satria Adhitama – Discover My Journey ✨
+# Agus Satria Adhitama – ✨ Discover My Journey ✨
 
-Selamat datang di **Discover My Journey**, pengalaman interaktif untuk mengenal siapa saya, perjalanan hidup, dan cerita di balik setiap langkah. 🌟  
-Dari Timika, Papua, hingga berbagai tantangan dan pengalaman, setiap bagian dari cerita ini membawa **bangga Papua** ke dunia.
+Selamat datang di **Discover My Journey** 🚀, pengalaman interaktif untuk mengenal siapa saya, perjalanan hidup, dan cerita di balik setiap langkah. 🌟  
+Dari **Timika, Papua** 🌴 hingga berbagai tantangan dan pengalaman, setiap bagian dari cerita ini membawa **bangga Papua** ke dunia.
 
 ---
 
-## 🌈 Hero Section Preview
+## 🌈 Hero Section
 
-![Hero Preview](./screenshots/hero-section.png)  
-Neon portrait, typing effect tagline, dan tombol **Discover My Journey →** siap menyambut pengunjung.
+Profil portrait dengan **neon glow** ✨ dan hover effect  
+Animasi **typing tagline** yang menginspirasi:  
+- **Proudly from Papua** 🌺  
+- **From Papua, With Pride** 🌟  
+- **Papua Runs in My Veins** 🔥  
 
-**Typing Tagline Examples:**  
-- Proudly from Papua  
-- From Papua, With Pride  
-- Papua Runs in My Veins  
+Tombol **Discover My Journey →** 🡒 mengajak pengunjung menelusuri perjalanan hidup saya secara **smooth scroll**.
 
 ---
 
 ## 🔹 Story Section
 
-![Story Preview](./screenshots/story-section.png)  
 - Paragraf di-justify dengan **tab indentasi** di awal  
-- Highlight keyword penting dengan neon glow  
-- Reveal animation saat scroll untuk **efek cinematic**
+- **Highlight keyword penting** dengan neon glow 💡  
+- **Reveal animation** saat scroll untuk efek cinematic 🎬  
+- Setiap bagian menceritakan **perjalanan hidup**, **pendidikan**, dan **pengalaman organisasi**
 
 ---
 
-## 💌 Contact Section
+## 💌 Contact
 
-![Contact Preview](./screenshots/contact-section.png)  
-
-- Email: [agusadhitama95@gmail.com](mailto:agusadhitama95@gmail.com)  
-- Instagram: [@agusadhitamaa](https://instagram.com/agusadhitamaa)  
-
-Klik langsung dan interaksi dengan neon glow tombol & link!
+Interaktif & mudah diakses:  
+- **Email:** [agusadhitama95@gmail.com](mailto:agusadhitama95@gmail.com) ✉️  
+- **Instagram:** [@agusadhitamaa](https://instagram.com/agusadhitamaa) 📸  
 
 ---
 
