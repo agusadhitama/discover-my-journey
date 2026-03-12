@@ -1,48 +1,50 @@
-# Agus Satria Adhitama – Personal Portfolio
+# Agus Satria Adhitama – Discover My Journey ✨
 
-Selamat datang di personal portfolio interaktif **Agus Satria Adhitama**! 🌟  
-Ini adalah website yang menampilkan perjalanan hidup, pendidikan, dan karya saya, dengan desain modern, interaktif, dan estetika neon glow.
+Selamat datang di **Discover My Journey**, sebuah pengalaman interaktif untuk mengenal siapa saya, perjalanan hidup, dan cerita di balik setiap langkah. 🌟  
+
+Dari Timika, Papua, hingga berbagai tantangan dan pengalaman, setiap bagian dari cerita ini membawa **bangga Papua** ke dunia.
 
 ---
 
-## 🔹 Fitur Utama
+## 🔹 Highlights & Features
 
 - **Hero Section Futuristik**  
-  Profil portrait dengan neon glow + hover scale  
-  Typing effect yang menampilkan beberapa tagline inspiratif:  
+  Neon glow portrait + hover effect  
+  Animasi typing dengan tagline inspiratif:  
   - Proudly from Papua  
   - From Papua, With Pride  
   - Papua Runs in My Veins  
 
-- **Interactive “Discover My Journey” Button**  
-  Smooth scroll ke story section, mengajak pengunjung melihat perjalanan hidup saya.
+- **“Discover My Journey” Button**  
+  Smooth scroll ke bagian cerita, mengajak pengunjung menjelajahi perjalanan hidup saya.
 
 - **Story Section**  
-  Paragraf di-justify, dengan indentasi “tab” di awal paragraf  
-  Highlight keyword penting dengan neon glow untuk fokus visual  
-  Reveal animation saat scroll
+  - Paragraf di-justify dengan indentasi seperti tab  
+  - Highlight keyword penting dengan neon glow  
+  - Reveal animation saat scroll untuk efek cinematic  
 
 - **Contact Section**  
-  - Email: <a href="mailto:agusadhitama95@gmail.com">agusadhitama95@gmail.com</a>  
-  - Instagram: <a href="https://instagram.com/agusadhitamaa">@agusadhitamaa</a>  
+  Interaktif & mudah diakses:  
+  - Email: [agusadhitama95@gmail.com](mailto:agusadhitama95@gmail.com)  
+  - Instagram: [@agusadhitamaa](https://instagram.com/agusadhitamaa)
 
-- **Responsive Design**  
-  Optimal untuk desktop dan mobile  
-  Dark mode aesthetic dengan particle background
+- **Responsive & Aesthetic**  
+  Desain dark mode modern dengan particle background  
+  Optimized untuk desktop dan mobile
 
 ---
 
-## 💻 Teknologi
+## 💻 Built With
 
-- **HTML5 & CSS3** – Struktur dan styling modern  
+- **HTML5 & CSS3** – Struktur & styling modern  
 - **JavaScript** – Typing effect, smooth scroll, reveal on scroll animation  
 - **Google Fonts** – Poppins & JetBrains Mono  
-- **CSS Animations** – Neon glow, hover effects
+- **CSS Animations** – Neon glow, hover effects  
 
 ---
 
-## 🚀 Cara Menjalankan
+## 🚀 How to Explore
 
-1. Clone repository ini:  
+1. Clone this repository:  
 ```bash
 git clone https://github.com/<username>/agus-satria-adhitama.git
