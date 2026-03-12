@@ -5,6 +5,13 @@ Dari **Timika, Papua** 🌴 hingga berbagai tantangan dan pengalaman, setiap bag
 
 ---
 
+## 🌐 Live Preview
+
+Nikmati versi live di sini:  
+👉 [https://agusadhitama.github.io/discover-my-journey/](https://agusadhitama.github.io/discover-my-journey/)  
+
+---
+
 ## 🌈 Hero Section
 
 Profil portrait dengan **neon glow** ✨ dan hover effect  
@@ -38,4 +45,4 @@ Interaktif & mudah diakses:
 
 1. Clone this repository:  
 ```bash
-[git clone https://github.com/<username>/agus-satria-adhitama.git](https://agusadhitama.github.io/discover-my-journey/)
+git clone https://github.com/agusadhitama/discover-my-journey.git
